@@ -1,6 +1,4 @@
-# Sistema de Monitoramento de Temperatura
-
-Este projeto implementa um sistema distribuído utilizando Kafka (Pub/Sub) e gRPC (Cliente/Servidor) em Python.
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/A6uVSc3Y)
 
 ## Estrutura do Projeto
 
